@@ -1,0 +1,45 @@
+
+
+.container{
+  width:20em;
+  margin: 0.5em 0.5em;
+  float: left;
+  position: relative;
+  
+}
+.container.darkMode{
+  color: azure;
+
+
+}
+.container.lightMode{
+  color: black;
+
+}
+
+.pic img{
+  width: 100%;
+  height: 100%;
+}
+.title{
+  font-weight: bold;
+  margin-bottom: 2em;
+}
+.channel, .views{
+  font-size: large;
+  margin-bottom: 0.em;
+}
+
+.views span{
+  padding: 0 0.5em;
+}
+.close{
+  position: absolute;
+  right:0;
+  max-width: 50%;
+}
+.edit{
+  position:absolute;
+  right: 6;
+  width:50%;
+}
