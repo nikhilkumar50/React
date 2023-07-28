@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React
 All about react
 =======
